@@ -1,3 +1,4 @@
+![logo](https://github.com/pawarrajendra200/pawarrajendra200/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rajendra pawar</h1>
 <h3 align="center">A passionate senior magento software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="code.gif" />
