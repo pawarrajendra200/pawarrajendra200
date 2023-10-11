@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajendra pawar</h1>
 <h3 align="center">A passionate senior magento software developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="code.gif" />
 - 🔭 I’m currently working on [Jeep](https://www.gear.jeep.com/)
 
 - 🌱 I’m currently learning **Graphql**
